@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--aem-ue2--vthakur25.aem.live/sitemap.xml
